@@ -4,7 +4,7 @@ import BlurText from "./BlurText";
 
 export default function LandingPage() {
     return (
-        <div className="relative w-full min-h-screen bg-black overflow-hidden font-sans">
+        <div className="relative w-full min-h-screen bg-[#0a0f1d] overflow-hidden font-sans">
 
 
             <div className="flex flex-col md:flex-row items-center justify-between min-h-screen px-6 md:px-16 pt-24 md:pt-0">
