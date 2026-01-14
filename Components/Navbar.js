@@ -36,7 +36,7 @@ const Navbar = () => {
                                 className="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-full"
                             />
                             <Image
-                                src="/assets/acmlogo.png"
+                                src="/assets/img.png"
                                 alt="ACM Logo"
                                 width={70}
                                 height={70}
